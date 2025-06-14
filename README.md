@@ -1,1 +1,1 @@
-# Payment-Samz
+# https://samzmarket.github.io/Payment-Samz
